@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "datacircle",
+  "version": "1.0.0",
+  "description": "Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.",
+  "author": {
+    "name": "Datacircle",
+    "email": "wayne@datacircle.dev",
+    "url": "https://datacircle.dev"
+  },
+  "homepage": "https://datacircle.dev",
+  "repository": "https://github.com/waynehamadi/kiro-datacircle",
+  "license": "MIT",
+  "keywords": [
+    "datacircle",
+    "gtm api",
+    "email finder",
+    "enrichment api",
+    "people data",
+    "company data",
+    "b2b data",
+    "lead data",
+    "api pricing",
+    "compare apis",
+    "rate limits",
+    "data provider"
+  ]
+}
